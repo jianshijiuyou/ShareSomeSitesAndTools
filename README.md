@@ -1,5 +1,20 @@
 分享一些网站和工具
 ====================
+[android](#android)  
+&emsp;&emsp;[博客类](#博客类)  
+&emsp;&emsp;[学习网站](#学习网站)   
+&emsp;&emsp;[值得Android开发者阅读系列](#值得Android开发者阅读系列)   
+&emsp;&emsp;[高质量Android社区](#高质量Android社区)   
+&emsp;&emsp;[各种开源控件/项目](#各种开源控件/项目)   
+[.net](#.net)  
+&emsp;&emsp;[主要是一些大牛的博客](#.net)  
+[优秀网站（不限编程语言）](#优秀网站（不限编程语言）)  
+[视频学习（不限编程语言）](#视频学习（不限编程语言）)  
+[工具类网站](#工具类网站)  
+[日常工具类软件](#日常工具类软件)  
+[chrome浏览器插件类](#chrome浏览器插件类)  
+[阅读](#阅读)  
+
 
 
 
@@ -238,7 +253,7 @@ android
 
 
 
-chrome 浏览器插件类
+chrome浏览器插件类
 ---------------------------------  
  - [Tampermonkey](http://tampermonkey.net/)  
 	Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。 
