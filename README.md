@@ -419,6 +419,8 @@ chrome浏览器插件类
  - [剑指offer题解](http://blog.csdn.net/column/details/pointtooffer.html)  
 	使用java完成了剑指offer上的所有题目，包括拓展题目  
 
+ - [如果有人让你推荐编程技术书，请叫他看这个列表](http://blog.jobbole.com/106093/)
+
 以上部分资料出处
 ---------------------------------  
 
