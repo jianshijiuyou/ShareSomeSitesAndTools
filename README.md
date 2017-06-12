@@ -24,73 +24,7 @@ android
 
  - [值得关注的大牛博客](https://github.com/zhujun2730/Android-Learning-Resources)
  
-		CodeKK
-		Trinea
-		老罗的Android之旅
-		开发技术前线
-		爱哥
-		郭霖
-		鸿洋
-		胡凯
-		张明云
-		Drakeet
-		wangkuiwu —— Binder、事件分发、动画解析
-		高建武 —— 性能优化相关文章
-		hi大头鬼hi —— RxJava相关文章
-		Coder-pig —— 最佳入门专栏
-		Keegan小刚 —— 分享了多篇Android样式的文章
-		郑海波 —— 文章大多与自定义控件相关
-		吴小龙同学 —— 分享了多篇关于AndroidDesignSupportLibrary的文章
-		全速前行 —— 主讲实战技巧和平常遇到的问题
-		ASCE 1985 —— 翻译了多篇使用Kotlin开发Android应用
-		mcxiaoke —— rxjava文档，EventBus博客，多渠道打包，一些开源项目
-		WPJY —— 自定义View、开发经验
-		江清清的专栏 —— 大量实例讲解
-		hujiaweibujidao —— 《Android开发艺术探索》读书笔记系列
-		BlackSwift —— 简书作者【Blur实时渲染，AnimeWallpaper】
-		Android 源码解析专栏
-		DriodDeveloper —— 原创FrameWork源码解析，插件化研究
-
  - [android-dev-cn](https://github.com/android-cn/android-dev-cn)
-
-		罗升阳		
-		邓凡平		
-		魏祝林		
-		Trinea		
-		halzhang	
-		wyouflf		
-		张兴业		
-		代码家		
-		stormzhang	
-		郭霖				
-		hanyonglu		
-		闷瓜蛋子		
-		傲慢的上校		
-		youxiachai	
-		dodola		
-		Issacw0ng	
-		mcxiaoke	
-		soarcn		
-		谦虚的天下		
-		李华明Himi		
-		yangfuhai	
-		张国威		
-		程序媛念茜		
-		wangjinyu501			
-		ASCE1885		
-		qinjuning		
-		秋风的博客		
-		任玉刚		
-		农民伯伯		
-		李宏伟		
-		代震军		
-		sunzn		
-		pedant		
-		androidyue	
-		Hongyang	
-		大头鬼		
-		markzhai	
-
 
 ### 学习网站
  - [Android Developer](http://developer.android.com/)
@@ -227,6 +161,10 @@ android
 	在线使用markdown语法编写文档
  - [百度脑图](http://naotu.baidu.com)  
 	在线制作思维导图
+ - [learngitbranching](http://learngitbranching.js.org)  
+	你对 Git 感兴趣吗？那么算是来对地方了！ “Learning Git Branching” 可以说是目前为止最好的教程了，在沙盒里你能执行相应的命令，还能看到每个命令的执行情况； 通过一系列刺激的关卡挑战，逐步深入的学习 Git 的强大功能，在这个过程中你可能还会发现一些有意思的事情。
+ - [iconfont](http://www.iconfont.cn/)  
+	阿里巴巴矢量图标库
 
 日常工具类软件
 ---------------------------------
@@ -249,7 +187,28 @@ android
 	![](png9.png)
  - [everything](http://www.voidtools.com/)  
 	强大的本地文件搜索器。
+ - [rufus](http://rufus.akeo.ie/?locale=zh_CN)  
 
+		Rufus 是一个可以帮助格式化和创建可引导USB闪存盘的工具，比如 USB 随身碟，记忆棒等等。
+	
+		在如下场景中会非常有用：
+		
+			你需要把一些可引导的ISO格式的镜像（Windows，Linux，UEFI等）创建成USB安装盘的时候
+			你需要使用一个还没有安装操作系统的设备的时候
+			你需要从DOS系统刷写BIOS或者其他固件的时候
+			你需要运行一个非常底层的工具的时候
+		
+		Rufus 麻雀虽小，五脏俱全，体积虽小，功能全面。
+		
+ - [Listen 1](https://github.com/listen1/listen1_chrome_extension)  
+ 
+		缘起)
+
+		当我发现找个想听的歌因为版权听不了，需要打开好几个网站开始搜索，来回切换让我抓狂的时候，我知道是时候该做点什么了。
+		
+		妈妈再也不用担心我找不到我想听的歌了。这里包含了网易云音乐，虾米，QQ音乐的曲库，够全够大了吧。
+		
+		搜歌，听歌，就用 Listen1。
 
 
 
@@ -276,150 +235,22 @@ chrome浏览器插件类
 阅读
 ---------------------------------
  - [A Programmer Prepares(程序员的自我修养)](https://www.gitbook.com/book/leohxj/a-programmer-prepares)  
-	收录了很多计算机方面的知识点，作为一个程序员，应该知道，以下是目录
-
-		1. 程序员基础知识
-		1.1. 字符编码
-		1.2. 技术名词
-		1.3. 语义化版本
-		1.4. 命名规范
-		1.5. 书写文档
-		1.6. 开源协议
-		1.7. 目录结构
-		1.8. 正则表达式
-		1.9. 平凡之路
-		2. 数据结构与算法
-		2.1. 堆和栈
-		2.2. 浮点数类型
-		2.3. XML和JSON
-		2.4. 算法学习之路
-		2.5. 排序算法
-		3. 代码架构
-		3.1. 设计模式
-		3.1.1. 常用的Javascript设计模式
-		3.2. 面向对象编程
-		3.2.1. 继承
-		3.2.2. 多态
-		3.2.3. 封装
-		3.3. 面向接口编程
-		4. 代码评审
-		4.1. 六种量化你代码的方式
-		4.2. 程序员必备的代码审查（Code Review）清单
-		5. 服务器部署
-		5.1. AWS简介
-		6. 网络知识
-		6.1. HTTPS, SPDY和 HTTP/2性能的简单对比
-		6.2. HTTP状态码
-		7. 懂点设计
-		7.1. 佳作赏析
-		7.2. 无缝平铺
-		7.3. Sketch学习
-		7.4. 设计与实现的平衡
-		8. 写点东西
-		8.1. 使用gitbook
-		9. 合格的PM
-		9.1. 一个好的产品经理
-		9.2. 产品经理的技能
-		10. 团队合作
-		10.1. 关于招聘
-		10.2. 培训新人
-		10.3. 领导能力
-		11. 获取知识
-		11.1. MOOC
-		11.2. Podcasts
-		11.3. 英语学习
-		11.4. 设计学习
-		11.5. 前端学习
-		11.6. iOS学习
-		11.7. 游戏开发
-		12. 关注健康
-		12.1. 过劳检测
-		12.2. 关于睡眠
-		13. 提升效率
-		13.1. 学会阅读
-		13.2. 学会提问
-		13.3. 善用搜索
-		13.4. 学会写作
-		13.5. 科学上网
-		13.6. 突破内网
-		13.7. 时间管理
-		13.8. 知识管理
-		13.9. 文件管理
-		13.10. 密码管理
-		13.11. 制作视频
-		13.12. 制作PPT
-		13.13. 论音乐对效率的影响
-		13.14. 程序员效率指南
-		14. SOHO
-		14.1. 创业资源
-		15. Hacker
-		15.1. 保护隐私
-		16. 关于工作
-		16.1. 找工作前需要思考的问题
-		16.2. 原则与技巧
-		16.3. 关于简历
-		17. 其他方面
-		17.1. 硬件相关
-		18. 常用软件
-		18.1. Windows
-		18.1.1. 硬件配置
-		18.1.2. 系统安装
-		18.1.3. 常用软件
-		18.2. Mac
-		18.2.1. 通用设置
-		18.2.2. 权限问题
-		18.2.3. alias设置
-		18.2.4. 常用软件
-		18.2.4.1. iTerm2
-		18.2.4.2. brew
-		18.2.4.3. zsh
-		18.2.4.4. 1Password
-		18.2.4.5. TextExpander
-		18.2.4.6. 欧陆词典
-		18.2.4.7. popClip
-		18.2.4.8. manico
-		18.2.4.9. 窗口管理器
-		18.2.4.10. BetterTouchTool
-		18.2.5. 开发环境
-		18.2.6. 快捷键设置
-		18.2.7. 常用终端命令
-		18.2.8. dotfiles
-		18.3. Android
-		18.3.1. 常用软件
-		18.3.2. 如何登录美国区GooglePlay
-		18.4. 开发工具
-		18.4.1. git
-		18.4.2. EditorConfig
-		18.4.3. node
-		18.4.4. shadowsocks
-		18.4.5. ST3--Windows篇
-		18.4.6. ST3--Mac篇
-		18.4.7. gulp
-		18.4.8. 字体的选择
-		18.4.9. Emacs
-		18.4.10. WebStorm
-		18.4.11. tmux
-		18.5. Sketch
-		18.5.1. Sketch中文学习资料
-		18.6. Trello
-		18.6.1. 使用Trello管理项目的经验
-		18.7. git进阶
-		18.7.1. 15分钟学会使用Git和远程代码库
-		18.7.2. GitHub秘籍
-		18.8. JetBrains
-		18.8.1. IDE设置
-		19. 附录
-		19.1. 计算机科学与技术
-		19.2. 网站
-		19.3. 书籍
-		19.4. 工具
-
-
+	收录了很多计算机方面的知识点，作为一个程序员，应该知道。
 
  - [剑指offer题解](http://blog.csdn.net/column/details/pointtooffer.html)  
 	使用java完成了剑指offer上的所有题目，包括拓展题目  
 
- - [如果有人让你推荐编程技术书，请叫他看这个列表](http://blog.jobbole.com/106093/)
+ - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)  
+
+ - [那些被岁月遗忘的 UNIX 经典著作](http://blog.jobbole.com/103989/)  
+  
+ - [《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)  
+	本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+ - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)  
+ - [Gradle User Guide 中文版](https://www.gitbook.com/book/dongchuan/gradle-user-guide-/details)  
+ - [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+ - [零基础学Python](https://www.gitbook.com/book/looly/python-basic/details)
+
 
 以上部分资料出处
 ---------------------------------  
