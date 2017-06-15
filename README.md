@@ -232,6 +232,7 @@ chrome浏览器插件类
  - [http://blog.csdn.net/lowprofile_coding/article/details/51059080](http://blog.csdn.net/lowprofile_coding/article/details/51059080)
  - [https://github.com/zhujun2730/Android-Learning-Resources](https://github.com/zhujun2730/Android-Learning-Resources)
  - [https://github.com/android-cn/android-dev-cn](https://github.com/android-cn/android-dev-cn)
+ - [最良心的软件可以良心到什么程度？](https://www.zhihu.com/question/52157612/answer/181351977)
 
 **如果有引用了没有在此注明的请联系我，对此深感抱歉。**
 
