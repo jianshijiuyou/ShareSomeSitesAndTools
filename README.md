@@ -1,13 +1,11 @@
 分享一些网站和工具
 ====================
-[android](#android)  
-&emsp;&emsp;[博客类](#博客类)  
-&emsp;&emsp;[学习网站](#学习网站)   
-&emsp;&emsp;[值得Android开发者阅读系列](#值得Android开发者阅读系列)   
-&emsp;&emsp;[高质量Android社区](#高质量Android社区)   
-&emsp;&emsp;[各种开源控件/项目](#各种开源控件/项目)   
-[.net](#net)  
-&emsp;&emsp;[主要是一些大牛的博客](#net)  
+ 
+[博客类](#博客类)  
+[学习网站](#学习网站)   
+[值得Android开发者阅读系列](#值得Android开发者阅读系列)   
+[高质量Android社区](#高质量Android社区)   
+[各种开源控件/项目](#各种开源控件/项目)   
 [优秀网站（不限编程语言）](#优秀网站不限编程语言)  
 [视频学习（不限编程语言）](#视频学习不限编程语言)  
 [工具类网站](#工具类网站)  
@@ -16,17 +14,15 @@
 [阅读](#阅读)  
 
 
-
-
-android
----------
-### 博客类  
+博客类
+-------------------------------  
 
  - [值得关注的大牛博客](https://github.com/zhujun2730/Android-Learning-Resources)
  
  - [android-dev-cn](https://github.com/android-cn/android-dev-cn)
 
-### 学习网站
+学习网站
+-------------------------------
  - [Android Developer](http://developer.android.com/)
  - [Android Developer(无需梯子)](http://androiddoc.qiniudn.com/index.html)
  - [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
@@ -35,7 +31,8 @@ android
  - [androiddevtools](http://androiddevtools.cn/)  
 	各种android开发的工具和学习资料
 
-### 值得Android开发者阅读系列
+值得Android开发者阅读系列
+-------------------------------
 
  - [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)   
 	stormzhang的Android学习之路
@@ -52,7 +49,8 @@ android
  - [AndroidNote](https://github.com/GcsSloop/AndroidNote)  
 	android自定义view讲解
 
-### 高质量Android社区
+高质量Android社区
+-------------------------------
 
  - [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
  - [V2ex —— V2ex Android板块](https://www.v2ex.com/go/android)
@@ -66,7 +64,8 @@ android
  - [DevStore](http://www.devstore.cn/code/list/ft85-pn1-or0.html) —— 各种Demo，以及第三方服务
  - [第七城市](http://123.th7.cn/code/MagicPie_1678.html) — android/ios代码实例分享平台
 
-### 各种开源控件/项目
+各种开源控件/项目
+-------------------------------
 
  - [https://github.com/Trinea/android-open-project](https://github.com/Trinea/android-open-project)  
 
@@ -98,33 +97,6 @@ android
 		视频学习网站
 		面试相关
 
-
-
-.net
---------------------------
-主要是一些大牛的博客  
- 
- - [蒋金楠](http://www.cnblogs.com/artech)  
-	主要是MVC，webApi和WCF
-	蒋金楠搞东西喜欢搞得比较深，如果想了了解原理多看
- - [Fish-li](http://www.cnblogs.com/fish-li)  
-	主要是asp.net原理
- - [汤姆大叔(徐华)](http://www.cnblogs.com/TomXu)  
-	主要是JavaScript，MVC
- - [李永京](http://www.cnblogs.com/lyj)  
-	主要是NH(NHibernate)
- - [张善友](http://www.cnblogs.com/shanyou)  
-	主攻Mono(国内高Mono第一人)
- - [赵姐夫](http://blog.zhaojie.me/)  
-	.net各种东西各种搞
- - [Dudu](http://www.cnblogs.com/dudu)  
-	博问
- - [博客园官方团队博客](http://www.cnblogs.com/cmt)  
-	互联网部署级别各种问题的分享
- - [梦想天空](http://www.cnblogs.com/lhb25)  
-	前端资源分享
- - [ext.net](http://www.qeefee.com/zt-extnet)  
-	Ext.Net教程
 
 优秀网站（不限编程语言）
 -------------------------------
