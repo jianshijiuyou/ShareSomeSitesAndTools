@@ -2,7 +2,6 @@
 ====================
  
 [博客类](#博客类)  
-[学习网站](#学习网站)   
 [值得Android开发者阅读系列](#值得Android开发者阅读系列)   
 [高质量Android社区](#高质量Android社区)   
 [各种开源控件/项目](#各种开源控件/项目)   
@@ -16,20 +15,9 @@
 
 博客类
 -------------------------------  
-
- - [值得关注的大牛博客](https://github.com/zhujun2730/Android-Learning-Resources)
  
  - [android-dev-cn](https://github.com/android-cn/android-dev-cn)
 
-学习网站
--------------------------------
- - [Android Developer](http://developer.android.com/)
- - [Android Developer(无需梯子)](http://androiddoc.qiniudn.com/index.html)
- - [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
- - [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
- - [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
- - [androiddevtools](http://androiddevtools.cn/)  
-	各种android开发的工具和学习资料
 
 值得Android开发者阅读系列
 -------------------------------
@@ -79,7 +67,7 @@
 		  包括开发效率工具、开发自测相关、测试工具、开发及编译环境、其他
 		Android 开源项目第五篇——优秀个人和团体篇
 		  乐于分享并且有一些很不错的开源项目的个人和组织，包括 JakeWharton、Chris Banes、Koushik Dutta 等大牛
- - [https://github.com/zhujun2730/Android-Learning-Resources](https://github.com/zhujun2730/Android-Learning-Resources)  
+ - [Android学习资源网站大全](https://github.com/zhujun2730/Android-Learning-Resources)  
 
 		Android学习资源网站大全
 		优质学习资源
