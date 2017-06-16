@@ -22,7 +22,7 @@
 值得Android开发者阅读系列
 -------------------------------
 
- - [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)   
+ - [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)   
 	stormzhang的Android学习之路
  - [Android-Tips](https://github.com/tangqi92/Android-Tips)  
 	作者收集了大量Android开发Tip
