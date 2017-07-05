@@ -1,6 +1,6 @@
 分享一些网站和工具
 ====================
- 
+
 [博客类](#博客类)  
 [值得Android开发者阅读系列](#值得Android开发者阅读系列)   
 [高质量Android社区](#高质量Android社区)   
@@ -15,7 +15,7 @@
 
 博客类
 -------------------------------  
- 
+
  - [android-dev-cn](https://github.com/android-cn/android-dev-cn)
 
 
@@ -33,9 +33,12 @@
  - [Android应用性能调优的技术点](http://zhuanlan.zhihu.com/kaede/20326073)  
 	如题  
  - [Android界面设计视觉规范](http://www.woshipm.com/ucd/243897.html?utm_source=tuicool&utm_medium=referral)  
-	如题 
+	如题
  - [AndroidNote](https://github.com/GcsSloop/AndroidNote)  
 	android自定义view讲解
+ - [hencoder](http://hencoder.com/)  
+   给高级 Android 工程师的进阶手册
+
 
 高质量Android社区
 -------------------------------
@@ -51,6 +54,8 @@
  - [JavaApk.com](http://www.javaapk.com/) —— 安卓demo聚集地，部分源码需购买VIP
  - [DevStore](http://www.devstore.cn/code/list/ft85-pn1-or0.html) —— 各种Demo，以及第三方服务
  - [第七城市](http://123.th7.cn/code/MagicPie_1678.html) — android/ios代码实例分享平台
+ - [diycode](https://www.diycode.cc/) —优雅、极客、创意、分享、美好
+
 
 各种开源控件/项目
 -------------------------------
@@ -101,8 +106,6 @@
  - [网易公开课](https://open.163.com/)
  - [中国大学mooc](http://www.icourse163.org/)  
  - [慕课网](http://www.imooc.com/)  
- - [各种视频资源下载](http://blog.csdn.net/lowprofile_coding/article/details/51059080) 
-
 
 工具类网站
 ---------------------------------
@@ -150,24 +153,24 @@
  - [rufus](http://rufus.akeo.ie/?locale=zh_CN)  
 
 		Rufus 是一个可以帮助格式化和创建可引导USB闪存盘的工具，比如 USB 随身碟，记忆棒等等。
-	
+
 		在如下场景中会非常有用：
-		
+
 			你需要把一些可引导的ISO格式的镜像（Windows，Linux，UEFI等）创建成USB安装盘的时候
 			你需要使用一个还没有安装操作系统的设备的时候
 			你需要从DOS系统刷写BIOS或者其他固件的时候
 			你需要运行一个非常底层的工具的时候
-		
+
 		Rufus 麻雀虽小，五脏俱全，体积虽小，功能全面。
-		
+
  - [Listen 1](https://github.com/listen1/listen1_chrome_extension)  
- 
+
 		缘起)
 
 		当我发现找个想听的歌因为版权听不了，需要打开好几个网站开始搜索，来回切换让我抓狂的时候，我知道是时候该做点什么了。
-		
+
 		妈妈再也不用担心我找不到我想听的歌了。这里包含了网易云音乐，虾米，QQ音乐的曲库，够全够大了吧。
-		
+
 		搜歌，听歌，就用 Listen1。
 
 
@@ -175,7 +178,7 @@
 chrome浏览器插件类
 ---------------------------------  
  - [Tampermonkey](http://tampermonkey.net/)  
-	Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。 
+	Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。
  - [github目录插件](https://github.com/buunguyen/octotree)  
 	直接预览github上项目的目录，再也不要跳来跳去了
 	![](png1.png)
@@ -195,7 +198,7 @@ chrome浏览器插件类
 阅读
 ---------------------------------
  - [A Programmer Prepares(程序员的自我修养)](https://www.gitbook.com/book/leohxj/a-programmer-prepares)  
-	收录了很多计算机方面的知识点，作为一个程序员，应该知道。
+	收录了很多计算机方面的知识点。
 
  - [剑指offer题解](http://blog.csdn.net/column/details/pointtooffer.html)  
 	使用java完成了剑指offer上的所有题目，包括拓展题目  
@@ -203,14 +206,23 @@ chrome浏览器插件类
  - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)  
 
  - [那些被岁月遗忘的 UNIX 经典著作](http://blog.jobbole.com/103989/)  
-  
+
  - [《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)  
-	本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)  
+
  - [Gradle User Guide 中文版](https://www.gitbook.com/book/dongchuan/gradle-user-guide-/details)  
+
  - [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+
  - [零基础学Python](https://www.gitbook.com/book/looly/python-basic/details)
 
+ - [未来世界的幸存者](https://ruanyf.github.io/survivor/)  
+  阮一峰老师的新书
+
+ - [Deep Learning 中文翻译](https://github.com/exacity/deeplearningbook-chinese)  
+  一份不错的中文版机器学习资料  
+ - [Pro Git，第二版，简体中文](https://www.gitbook.com/book/bingohuang/progit2/details)
 
 以上部分资料出处
 ---------------------------------  
