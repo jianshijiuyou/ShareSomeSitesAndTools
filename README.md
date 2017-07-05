@@ -1,5 +1,5 @@
 分享一些网站和工具
-====================
+===================
 
 [博客类](#博客类)  
 [值得Android开发者阅读系列](#值得Android开发者阅读系列)   
@@ -228,7 +228,7 @@ chrome浏览器插件类
 ---------------------------------  
 
 
-##感谢
+## 感谢
  - [http://blog.csdn.net/lowprofile_coding/article/details/51059080](http://blog.csdn.net/lowprofile_coding/article/details/51059080)
  - [https://github.com/zhujun2730/Android-Learning-Resources](https://github.com/zhujun2730/Android-Learning-Resources)
  - [https://github.com/android-cn/android-dev-cn](https://github.com/android-cn/android-dev-cn)
